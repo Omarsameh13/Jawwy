@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T23:33:16 EET" name="Default suite" finished-at="2023-06-26T23:33:50 EET" duration-ms="33366">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T23:33:16 EET" name="Default test" finished-at="2023-06-26T23:33:50 EET" duration-ms="33366">
+      <class name="TestCases.lanchJawwy">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.lanchJawwy@7205765b]" started-at="2023-06-26T23:33:17 EET" name="Setup" finished-at="2023-06-26T23:33:50 EET" duration-ms="33313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="goToJawwy()[pri:1, instance:TestCases.lanchJawwy@7205765b]" started-at="2023-06-26T23:33:50 EET" name="goToJawwy" finished-at="2023-06-26T23:33:50 EET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToJawwy -->
+      </class> <!-- TestCases.lanchJawwy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
